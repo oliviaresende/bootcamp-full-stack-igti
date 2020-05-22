@@ -19,13 +19,13 @@ body {
   justify-content: space-around;
   padding-bottom: 1rem;  
 }
-#color {
+.color {
   width: 10vw;
 }
-#range {
+.redRange, .greenRange, .blueRange {
   width: 30vw;
 }
-#item {
+.redText, .greenText, .blueText {
   width: 5vw;
   color: black;
   text-align: center;
@@ -40,5 +40,6 @@ body {
   width: 150px;
   height: 150px;    
   background: black;
+  border: 1px solid black;
   justify-self: center;              
 }
