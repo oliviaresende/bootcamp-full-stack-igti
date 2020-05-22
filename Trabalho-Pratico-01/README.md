@@ -26,4 +26,4 @@ Construa, utilizando HTML, CSS e JavaScript puro, uma aplicação para a visuali
 4. À medida em que o usuário modifica o valor dos ranges com as teclas ← e → do teclado, a <div> deve refletir a cor correspondente.
 5. A imagem abaixo ilustra uma possível interface para a aplicação.
 
-![Exemplo 1](https://igti.instructure.com/courses/2936/files/189242/preview)
+![Exemplo 1](/Trabalho-Pratico-01/assets/trabalho-01.png)
