@@ -1,5 +1,9 @@
 # Trabalho Prático - Módulo 01
 
+## Aplicação
+
+Para acessar a aplicação clique [aqui](https://oliviaresende.github.io/Bootcamp-Full-Stack-IGTI/RGB-Generator/).
+
 ## Instruções
 
 ### *Objetivos:*
@@ -26,4 +30,4 @@ Construa, utilizando HTML, CSS e JavaScript puro, uma aplicação para a visuali
 4. À medida em que o usuário modifica o valor dos ranges com as teclas ← e → do teclado, a <div> deve refletir a cor correspondente.
 5. A imagem abaixo ilustra uma possível interface para a aplicação.
 
-![Exemplo 1](https://github.com/oliviaresende/Bootcamp-Full-Stack-IGTI/blob/master/Trabalho-Pratico-Modulo-01/assets/trabalho-01.png)
+![Exemplo 1](https://github.com/oliviaresende/Bootcamp-Full-Stack-IGTI/blob/master/RGB-Generator/assets/trabalho-01.png)
