@@ -19,7 +19,8 @@ Repositório com os trabalhos práticos e desafios realizados no Bootcamp Full S
 - Introdução ao Express. Criação de requisições HTTP, rotas e middlewares com Express.
 - Introdução  à  ferramenta  Insomnia.  
 - Construção  de  APIs  HTTP,  utilizando  as principais operações: GET, POST, PUT e DELETE.
-- Desenvolvimento das operações CRUD.Persistência de dados em arquivos. 
+- Desenvolvimento das operações CRUD.
+- Persistência de dados em arquivos. 
 
 ## Módulo 03 - FrontEnd com React
 
