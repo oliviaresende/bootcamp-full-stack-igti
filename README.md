@@ -8,9 +8,9 @@ Repositório com os trabalhos práticos e desafios realizados no Bootcamp Full S
 - Instalação do Node.js.Instalação da biblioteca live-server.
 - Noções de HTML e CSS.Introdução ao JavaScript.Integração do JavaScript com o HTML e CSS.JavaScript básico como console, comentários, tipos primitivos, variáveis,  APIs  nativas  de  servidor  e  web,  funções,  estruturas  de  decisão, estruturas de repetiçãoe manipulação de eventos.
 
-- [x] [Exercício Guiado 01](https://oliviaresende.github.io/Bootcamp-Full-Stack-IGTI/Register-names/)
-- [x] [Trabalho Prático](https://oliviaresende.github.io/Bootcamp-Full-Stack-IGTI/RGB-Generator/)
-- [x] [Exercício Guiado 02](https://oliviaresende.github.io/Bootcamp-Full-Stack-IGTI/Favorite-Countries/)
+- [x] [Exercício Guiado 01 - Register Names](https://oliviaresende.github.io/Bootcamp-Full-Stack-IGTI/Register-names/)
+- [x] [Trabalho Prático - RGB Generator](https://oliviaresende.github.io/Bootcamp-Full-Stack-IGTI/RGB-Generator/)
+- [x] [Exercício Guiado 02 - Favorite Countries](https://oliviaresende.github.io/Bootcamp-Full-Stack-IGTI/Favorite-Countries/)
 - [ ] [Desafio]()
 
 ## Módulo 02 - Desenvolvimento de APIs
