@@ -1,0 +1,40 @@
+body {
+  padding: 10px;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+  margin-left: 10px;
+
+  border-radius: 50%;
+}
+
+.container {
+  display: block;
+}
+
+h1 {
+    text-align: center;
+  } 
+  
+.country-container {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.country {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-items: center;
+}
+
+.add {
+  border-radius: 50%;
+  background-color: darkgreen;
+  color: white;
+  font-weight: bold;
+}
