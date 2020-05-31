@@ -11,7 +11,7 @@ Repositório com os trabalhos práticos e desafios realizados no Bootcamp Full S
 - [x] [Exercício Guiado 01 - Register Names](https://oliviaresende.github.io/Bootcamp-Full-Stack-IGTI/Register-names/)
 - [x] [Trabalho Prático - RGB Generator](https://oliviaresende.github.io/Bootcamp-Full-Stack-IGTI/RGB-Generator/)
 - [x] [Exercício Guiado 02 - Favorite Countries](https://oliviaresende.github.io/Bootcamp-Full-Stack-IGTI/Favorite-Countries/)
-- [ ] [Desafio]()
+- [x] [Desafio](https://oliviaresende.github.io/Bootcamp-Full-Stack-IGTI/User-Search/)
 
 ## Módulo 02 - Desenvolvimento de APIs
 
