@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Materialize CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" />
+
+  <link rel="stylesheet" href="./css/style.css" />
+
+  <title>Pesquisa de usuários</title>
+</head>
+
+<body>
+  <div class="container">
+    <h1 class="title">Pesquisa de usuários</h1>
+  </div>
+
+  <div id="spinnerLoading" class="flex-row flex-center">
+    <div class="preloader-wrapper small active">
+      <div class="spinner-layer spinner-blue-only">
+        <div class="circle-clipper left">
+          <div class="circle"></div>
+        </div>
+        <div class="gap-patch">
+          <div class="circle"></div>
+        </div>
+        <div class="circle-clipper right">
+          <div class="circle"></div>
+        </div>
+      </div>
+    </div>
+    <span style="margin-left: 10px; font-size: 2rem;">Aguarde...</span>
+  </div>
+
+  <div class="flex-row">
+    <div class="input input-field">
+      <input disabled id="inputSearch" type="text" class="validate" />
+      <label class="input" for="inputSearch">Busca</label>
+    </div>
+    <button id="buttonSearch" class="waves-effect waves-light btn" disabled>
+      Buscar
+    </button>
+  </div>
+
+  <div class="flex-row flex-row-start">
+    <div class="dataContainer" id="divUsers">Users</div>
+    <div class="dataContainer" id="divStatistics">Statistics</div>
+  </div>
+
+  <!-- Materialize JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+  <script src="./js/script.js"></script>
+</body>
+
+</html>
