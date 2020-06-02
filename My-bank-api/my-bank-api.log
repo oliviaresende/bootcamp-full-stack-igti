@@ -1,0 +1,21 @@
+2020-06-02T04:18:41.350Z [my-bank-api] info:API started
+2020-06-02T04:20:43.541Z [my-bank-api] info:API started
+2020-06-02T04:21:45.924Z [my-bank-api] info:API started
+2020-06-02T04:23:14.661Z [my-bank-api] info:API started
+2020-06-02T04:24:06.686Z [my-bank-api] info:API started
+2020-06-02T04:25:00.939Z [my-bank-api] info:API started
+2020-06-02T04:26:36.794Z [my-bank-api] info:API started
+2020-06-02T04:27:55.588Z [my-bank-api] info:API started
+2020-06-02T04:28:52.108Z [my-bank-api] info:API started
+2020-06-02T04:29:19.252Z [my-bank-api] info:POST /account/transaction - {"id":1,"value":100}
+2020-06-02T04:29:24.152Z [my-bank-api] info:POST /account - {"id":9,"name":"Caetano Veloso","balance":20028.15}
+2020-06-02T04:29:27.415Z [my-bank-api] info:GET /account
+2020-06-02T04:29:33.252Z [my-bank-api] info:GET /account/1
+2020-06-02T04:29:41.973Z [my-bank-api] info:DELETE /account/9
+2020-06-02T04:29:45.278Z [my-bank-api] info:PUT /account - {"id":1,"name":"Olívia Resende","balance":200}
+2020-06-02T06:24:33.265Z [my-bank-api] info:API started
+2020-06-02T06:25:43.299Z [my-bank-api] info:API started
+2020-06-02T06:29:21.879Z [my-bank-api] info:API started
+2020-06-02T06:32:56.999Z [my-bank-api] info:API started
+2020-06-02T06:33:48.599Z [my-bank-api] info:GET /account
+2020-06-02T06:51:22.445Z [my-bank-api] info:API started
