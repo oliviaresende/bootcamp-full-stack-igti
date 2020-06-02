@@ -22,6 +22,9 @@ Repositório com os trabalhos práticos e desafios realizados no Bootcamp Full S
 - Desenvolvimento das operações CRUD.
 - Persistência de dados em arquivos. 
 
+- [x] Exercício Guiado 01 - My Bank API
+- [ ] Trabalho Prático - States and Cities
+
 ## Módulo 03 - FrontEnd com React
 
 - Instalação e configuração do React. Criação de projetos com o create-react-app. 
