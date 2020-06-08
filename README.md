@@ -22,8 +22,8 @@ Repositório com os trabalhos práticos e desafios realizados no Bootcamp Full S
 - Desenvolvimento das operações CRUD.
 - Persistência de dados em arquivos. 
 
-- [x] Exercício Guiado 01 - My Bank API
-- [ ] Trabalho Prático - States and Cities
+- [x] [Exercício Guiado 01 - My Bank API](https://github.com/oliviaresende/Bootcamp-Full-Stack-IGTI/tree/master/My-bank-api)
+- [x] [Trabalho Prático - States and Cities](https://github.com/oliviaresende/Bootcamp-Full-Stack-IGTI/tree/master/State-and-Cities)
 
 ## Módulo 03 - FrontEnd com React
 
