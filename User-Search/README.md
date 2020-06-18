@@ -32,4 +32,4 @@ Criar uma aplicação para filtrar usuários e mostrar estatísticas a partir do
 7. No painel da esquerda, listar os usuários filtrados.
 8. No painel da direita, calcular e mostrar algumas estatísticas sobre esses usuários, conforme imagens abaixo.
 
-![Exemplo 1](https://github.com/oliviaresende/Bootcamp-Full-Stack-IGTI/blob/master/User-Search/assets/referencia.png)
+![Exemplo 1](docs/referencia.png)
