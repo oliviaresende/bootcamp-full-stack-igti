@@ -24,6 +24,7 @@ Repositório com os trabalhos práticos e desafios realizados no Bootcamp Full S
 
 - [x] [Exercício Guiado 01 - My Bank API](https://github.com/oliviaresende/Bootcamp-Full-Stack-IGTI/tree/master/My-bank-api)
 - [x] [Trabalho Prático - States and Cities](https://github.com/oliviaresende/Bootcamp-Full-Stack-IGTI/tree/master/State-and-Cities)
+- [x] [Desafio - Grades Control API](https://github.com/oliviaresende/Bootcamp-Full-Stack-IGTI/tree/master/Grades-control-api)
 
 ## Módulo 03 - FrontEnd com React
 
@@ -33,6 +34,8 @@ Repositório com os trabalhos práticos e desafios realizados no Bootcamp Full S
 - Comunicação  entre  componentes.  Ciclo  de  vida  de  componentes  de  classe. Introdução às requisições HTTP com React. 
 - Roteamento com react-router. Introdução ao Ionic React.
 - Criação de um pequeno projeto passo a passo com React. 
+
+- [x] [Exercício Guiado 01 - React Countries](https://github.com/oliviaresende/Bootcamp-Full-Stack-IGTI/tree/master/react-countries)
 
 ## Módulo 04 - Persistência de dados, versionamento de códigoe implantação
 
