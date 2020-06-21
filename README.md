@@ -36,6 +36,7 @@ Repositório com os trabalhos práticos e desafios realizados no Bootcamp Full S
 - Criação de um pequeno projeto passo a passo com React. 
 
 - [x] [Exercício Guiado 01 - React Countries](https://github.com/oliviaresende/Bootcamp-Full-Stack-IGTI/tree/master/react-countries)
+- [x] [Trabalho Prático - React Salário](https://github.com/oliviaresende/Bootcamp-Full-Stack-IGTI/tree/master/react-salario)
 
 ## Módulo 04 - Persistência de dados, versionamento de códigoe implantação
 
