@@ -39,6 +39,7 @@ Repositório com os trabalhos práticos e desafios realizados no Bootcamp Full S
 - [x] [Trabalho Prático - React Salário](https://github.com/oliviaresende/Bootcamp-Full-Stack-IGTI/tree/master/react-salario)
 - [x] [Exercício Guiado 02 - React Votação](https://github.com/oliviaresende/Bootcamp-Full-Stack-IGTI/tree/master/react-votacao)
 - [x] [Exercício Guiado 03 - React Grades Control](https://github.com/oliviaresende/Bootcamp-Full-Stack-IGTI/tree/master/react-grades-control)
+- [x] [Desafio - React Juros Compostos](https://github.com/oliviaresende/Bootcamp-Full-Stack-IGTI/tree/master/react-juros-compostos)
 
 ## Módulo 04 - Persistência de dados, versionamento de códigoe implantação
 
