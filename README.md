@@ -48,4 +48,6 @@ Repositório com os trabalhos práticos e desafios realizados no Bootcamp Full S
 - Como  publicar  aplicações  no  Github.  Introdução  ao  Heroku.  Instalação  do Heroku CLI.
 - Como implantar aplicações no Heroku.
 
+- [x] [Trabalho Prático - My Bank API com MongoDB](https://github.com/oliviaresende/Bootcamp-Full-Stack-IGTI/tree/master/My-bank-api-MongoDB)
+
 ## Desafio Final
